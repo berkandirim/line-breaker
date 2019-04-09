@@ -14,10 +14,7 @@ Insert line breaks to a given string after specified length and delimiter.
 Clone this repo.
 
 ```
-$ npm install
-```
-```
-$ npm link
+$ npm i line-breaker -g
 ```
 In your working directory:
 ```
