@@ -8,14 +8,14 @@ Insert line breaks to a given string after specified length and delimiter.
 
 **Delimiter:** Character that you want to insert line break after.
 
-
-## Usage
-
-Clone this repo.
+## Installation
 
 ```
 $ npm i line-breaker -g
 ```
+
+## Usage
+
 In your working directory:
 ```
 $ line-breaker
